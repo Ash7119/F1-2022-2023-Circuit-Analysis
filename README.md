@@ -23,3 +23,12 @@ Performed an in-depth analysis of selected Formula 1 circuits from the 2022–20
 - This SQL query aggregates total points scored by each driver and their constructor at selected circuits during the 2022–2023 Formula 1 seasons. By joining race results with driver, team, race, and circuit data, the query provides a circuit-level breakdown of performance.
 
 ## Tableau
+### Average Points Earned per Grid Position
+- Grid positions are mapped to their physical layout on the starting grid to enable heatmap visualizations in Tableau that highlight performance differences by grid position.
+
+- Purpose: Evaluate the relationship between starting position and points scored.
+
+### Team and Driver Points by Circuit
+- The results allow for comparisons of driver and team performance across circuits and are used to create treemap visualizations in Tableau that display point distributions by track.
+
+- Purpose: Analyze driver and team performance by circuit.  
