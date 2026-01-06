@@ -1,2 +1,15 @@
-# F1-20222-2023-Analysis
-Conducted an in-depth analysis of my favorite circuits in the 2022-2023 Formula 1 season using SQL queries to extract and manipulate race data from a relational database. Utilized Tableau to visualize points earned by team and driver and average points earned per grid position. Utilized data from: https://www.kaggle.com/datasets/jtrotman/formula-1-race-data.
+# F1 2022–2023 Circuit Analysis
+
+Performed an in-depth analysis of selected Formula 1 circuits from the 2022–2023 seasons. Used SQL to query and transform race data from a relational database, focusing on team and driver performance trends. Built interactive Tableau dashboards to visualize total points by team and driver and average points scored by grid position.
+
+## Technologies Used
+- SQL 
+- Tableau
+
+## Key Insights
+- Comparison of points earned by teams and drivers across favorite circuits
+- Analysis of average points scored by starting grid position
+- 
+## Data Source
+- Formula 1 Race Data (Kaggle):  
+  https://www.kaggle.com/datasets/jtrotman/formula-1-race-data
