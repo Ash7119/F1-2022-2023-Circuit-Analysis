@@ -1,13 +1,13 @@
 # F1 2022–2023 Circuit Analysis
 
-Performed an in-depth analysis of selected Formula 1 circuits from the 2022–2023 seasons. Used SQL to query and transform race data from a relational database, focusing on team and driver performance trends. Built interactive Tableau dashboards to visualize total points by team and driver and average points scored by grid position.
+Performed an analysis on selected Formula 1 circuits from the 2022–2023 seasons. Used SQL to query and transform race data from a relational database, focusing on team and driver performance trends. Built interactive Tableau dashboards to visualize total points by team and driver and average points scored by grid position.
 
 ## Technologies Used
 - SQL 
 - Tableau
 
 ## Key Insights
-- Comparison of points earned by teams and drivers across favorite circuits
+- Comparison of points earned by teams and drivers across selected circuits
 - Analysis of average points scored by starting grid position
   
 ## Data Source
